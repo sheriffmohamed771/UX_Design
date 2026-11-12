@@ -1,6 +1,8 @@
 # UX_Design
 
-React, TypeScript, Vite, and Tailwind CSS starter.
+UX design portfolio built with React, TypeScript, Vite, and Tailwind CSS.
+
+The site is published with GitHub Pages at https://sheriffmohamed771.github.io/UX_Design/.
 
 ```sh
 npm install
